@@ -15,6 +15,8 @@ License
 
 * French: David Revoy
 
+* Swedish: Mikael Olofsson
+
 
 ## Artwork:
 
