@@ -13,6 +13,9 @@ License
 
 ## Translators and correctors:
 
+
+* Dutch: Midgard
+
 * French: David Revoy
 
 * Swedish: Mikael Olofsson
