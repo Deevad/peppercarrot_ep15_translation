@@ -18,9 +18,11 @@ License
 
 * French: David Revoy
 
-* Swedish: Mikael Olofsson
+* Italian: Carlo Gandolfi
 
 * Mexicano: RJ Quiralta
+
+* Swedish: Mikael Olofsson
 
 
 ## Artwork:
