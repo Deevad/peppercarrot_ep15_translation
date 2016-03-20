@@ -20,6 +20,8 @@ License
 
 * Swedish: Mikael Olofsson
 
+* Mexicano: RJ Quiralta
+
 
 ## Artwork:
 
