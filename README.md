@@ -20,6 +20,8 @@ License
 
 * Italian: Carlo Gandolfi
 
+* Japanese: guruguru
+
 * Mexicano: RJ Quiralta
 
 * Swedish: Mikael Olofsson
