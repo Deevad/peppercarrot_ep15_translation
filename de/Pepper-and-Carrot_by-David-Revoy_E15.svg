@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="1100"
    height="765"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E15.svg">
@@ -166,15 +166,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1858"
+     inkscape:window-height="1058"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.90380222"
      inkscape:cx="389.63893"
-     inkscape:cy="238.19473"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:cy="415.22461"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -183,13 +183,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E15.png"
-     xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E15.png"
-     y="0"
-     x="0"
-     id="image10"
+     sodipodi:absref="C:\work\git\peppercarrot_ep15_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E15.png"
+     xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E15.png"
+     width="1100"
      height="765"
-     width="1100" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -205,6 +205,6 @@
          id="tspan4185"
          x="282.92966"
          y="736.31476"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 15 : The Crystal Ball</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 15 : Die Kristallkugel</tspan></text>
   </g>
 </svg>

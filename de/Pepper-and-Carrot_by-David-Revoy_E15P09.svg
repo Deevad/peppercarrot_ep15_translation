@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="4503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E15P09.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1858"
+     inkscape:window-height="1058"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2602153"
-     inkscape:cx="1332.3112"
-     inkscape:cy="3882.8045"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="0.48208001"
+     inkscape:cx="1152.7948"
+     inkscape:cy="3632.2437"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
@@ -66,15 +66,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E15P09.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E15P09.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       sodipodi:absref="C:\work\git\peppercarrot_ep15_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E15P09.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E15P09.png"
+       width="2481.4438"
        height="4504.5391"
-       width="2481.4438" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -108,20 +108,20 @@
        id="text4213"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4215"
          x="1240.9395"
          y="-860.94409"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi">Pepper&amp;Carrot is entirely free, open-source and sponsored</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="tspan4219">Pepper&amp;Carrot ist komplett frei, Open Source und wird</tspan><tspan
          sodipodi:role="line"
          x="1240.9395"
          y="-798.44409"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4217">thanks to the patronage of its readers.</tspan><tspan
+         id="tspan3357">durch die Leser unterstützt und finanziert.</tspan><tspan
          sodipodi:role="line"
          x="1240.9395"
          y="-735.94409"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4219">For this episode, thank you to the 686 Patrons:</tspan></text>
+         id="tspan3359">Für diese Episode geht der Dank an die XXX Förderer:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -133,7 +133,7 @@
          id="tspan4223"
          x="1240.49"
          y="2901.1709"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.25px;font-family:Lavi;-inkscape-font-specification:Lavi">You too can become a patron of Pepper&amp;Carrot for the next episode at</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.25px;font-family:Lavi;-inkscape-font-specification:Lavi">Auch Du kannst die nächste Episode von Pepper&amp;Carrot hier unterstützen:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.84348011px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#a72f14;fill-opacity:1;stroke:none"
@@ -154,24 +154,24 @@
        id="text4229"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4231"
          x="1246.1995"
          y="3137.168"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Lavi;-inkscape-font-specification:Lavi">License : Creative Commons Attribution 4.0 </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="tspan4237">Lizenz : Creative Commons Attribution 4.0 </tspan><tspan
          sodipodi:role="line"
          x="1246.1995"
          y="3180.918"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4233">Source : available at www.peppercarrot.com </tspan><tspan
+         id="tspan3378">Quelldaten : verfügbar auf www.peppercarrot.com </tspan><tspan
          sodipodi:role="line"
-         x="1246.1995"
+         x="1240.0471"
          y="3224.668"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4235">Software : this episode was 100% drawn with libre software </tspan><tspan
+         id="tspan3380">Software : Diese Episode wurde zu 100% mit freier Software erstellt</tspan><tspan
          sodipodi:role="line"
          x="1246.1995"
          y="3268.418"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4237">Krita 2.9.11 , Inkscape 0.91 on Linux Mint 17 </tspan></text>
+         id="tspan3382">Krita 2.9.11 , Inkscape 0.91 auf Linux Mint 17 </tspan></text>
   </g>
 </svg>
