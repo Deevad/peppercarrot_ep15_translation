@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="4503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E15P09.svg">
@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36800001"
-     inkscape:cx="1347.5892"
-     inkscape:cy="459.68065"
+     inkscape:cx="1245.687"
+     inkscape:cy="3796.6371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -66,15 +66,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Volumes/Macadisk/Carrot/peppercarrot_ep15_translation-master/sk/../gfx_Pepper-and-Carrot_by-David-Revoy_E15P09.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep15_The-Crystal-Ball/lang/sk/../gfx_Pepper-and-Carrot_by-David-Revoy_E15P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E15P09.png"
-       width="2481.4438"
-       height="4504.5391"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4223"
+       y="-1023.3771"
        x="0.54707891"
-       y="-1023.3771" />
+       id="image4223"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="4504.5391"
+       width="2481.4438" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -121,7 +121,7 @@
          x="1240.9395"
          y="-735.94409"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4219">Za túto epizódu chcem poďakovať týmto XXX patrónom:</tspan></text>
+         id="tspan4219">Za túto epizódu chcem poďakovať týmto 686 patrónom:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
