@@ -13,12 +13,17 @@ License
 
 ## Translators and correctors:
 
+* Chinese: Ran Zhuang
 
 * Dutch: Midgard
+
+* English: David Revoy
 
 * French: David Revoy
 
 * Hungarian: Halász Gábor "Hali"
+
+* Indonesian: Bonaventura Aditya Perdana
 
 * Italian: Carlo Gandolfi
 
@@ -26,7 +31,13 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Russian: Denis "uncle Night" Prisukhin
+
+* Spanish: TheFaico
+
 * Swedish: Mikael Olofsson
+
+* Ukrainian: Denis "uncle Night" Prisukhin
 
 
 ## Artwork:
