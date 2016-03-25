@@ -33,6 +33,8 @@ License
 
 * Russian: Denis "uncle Night" Prisukhin
 
+* Slovak: talime
+
 * Spanish: TheFaico
 
 * Swedish: Mikael Olofsson
