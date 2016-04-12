@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors:
 
+* Català: Juan José Segura
+
 * Chinese: Ran Zhuang
 
 * Dutch: Midgard
