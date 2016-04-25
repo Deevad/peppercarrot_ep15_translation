@@ -25,6 +25,8 @@ License
 
 * French: David Revoy
 
+* German: Philipp Hemmer
+
 * Hungarian: Halász Gábor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
@@ -35,6 +37,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Polish: Sölve Svartskogen
+
 * Russian: Denis "uncle Night" Prisukhin
 
 * Slovak: talime
@@ -44,8 +48,6 @@ License
 * Swedish: Mikael Olofsson
 
 * Ukrainian: Denis "uncle Night" Prisukhin
-
-* German: Philipp Hemmer
 
 
 ## Artwork:
@@ -70,7 +72,7 @@ This folder contains all ready to use built pages in all available language :
 
 * Long strip version in a long single picture (lowres/single-page, Jpeg 92% quality)
 
-* Krita original sources files (zip folder, zipped kra files) 
+* Krita original sources files (zip folder, zipped kra files)
 
 
 ## Info:

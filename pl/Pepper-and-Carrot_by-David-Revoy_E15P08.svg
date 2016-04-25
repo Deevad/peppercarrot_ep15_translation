@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49190039"
-     inkscape:cx="1775.902"
-     inkscape:cy="2614.8472"
+     inkscape:cx="1448.6"
+     inkscape:cy="252.58032"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/WinMedia/PepperCarrotNew/peppercarrot_ep15_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E15P08.png"
+       sodipodi:absref="/media/forge/Trashcan/Tests/pct/peppercarrot_ep15_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E15P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E15P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -96,6 +96,6 @@
          style="font-size:36.73472214px;fill:#ffffff"
          x="1240.0964"
          y="3392.3091"
-         id="tspan4252-9">03/2016 - Rysunki i fabuła : David Revoy</tspan></text>
+         id="tspan4252-9">03/2016 - Rysunki i fabuła: David Revoy</tspan></text>
   </g>
 </svg>
