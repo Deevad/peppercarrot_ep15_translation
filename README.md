@@ -37,11 +37,9 @@ License
 
 * Mexicano: RJ Quiralta
 
-<<<<<<< HEAD
-* Portuguese: Alexandre Esteves Almeida
-=======
 * Polish: Sölve Svartskogen
->>>>>>> refs/remotes/Deevad/master
+
+* Portuguese: Alexandre Esteves Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
 
