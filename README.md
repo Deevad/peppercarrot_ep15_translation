@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 15: Crystal Ball
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -38,6 +38,8 @@ License
 * Mexicano: RJ Quiralta
 
 * Polish: Sölve Svartskogen
+
+* Portuguese: Alexandre Esteves Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
 
