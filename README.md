@@ -21,6 +21,8 @@ License
 
 * English: David Revoy
 
+* Finnish: Kari Lehto
+
 * Esperanto: librefan.eu.org
 
 * French: David Revoy
