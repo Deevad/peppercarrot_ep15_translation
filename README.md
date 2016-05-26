@@ -35,6 +35,8 @@ License
 
 * Japanese: guruguru
 
+* Lojban: Gleki Arxokuna
+
 * Mexicano: RJ Quiralta
 
 * Polish: Sölve Svartskogen
