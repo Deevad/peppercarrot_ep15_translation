@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 15: Crystal Ball
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -13,7 +13,7 @@ License
 
 ## Translators and correctors:
 
-* Catalan: Juan José Segura
+* Catalan: Juan Jos? Segura
 
 * Chinese: Ran Zhuang
 
@@ -29,7 +29,9 @@ License
 
 * German: Philipp Hemmer
 
-* Hungarian: Halász Gábor "Hali"
+* Greek: George Karettas
+
+* Hungarian: Hal?sz G?bor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
 
@@ -41,7 +43,7 @@ License
 
 * Mexicano: RJ Quiralta
 
-* Polish: Sölve Svartskogen
+* Polish: S?lve Svartskogen
 
 * Portuguese: Alexandre Esteves Almeida
 
