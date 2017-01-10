@@ -23,9 +23,11 @@ License
 
 * English: David Revoy
 
-* Finnish: Kari Lehto
-
 * Esperanto: Libre fan (librefan.eu.org)
+
+* Farsi: Aslan Zamanloo
+
+* Finnish: Kari Lehto
 
 * French: David Revoy
 
