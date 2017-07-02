@@ -19,6 +19,8 @@ License
 
 * Czech: Kateřina Fleknová
 
+* Danish: [Emmiline](https://github.com/Emmilinette) and [Alexandre](https://github.com/Alkarex) Alapetite
+
 * Dutch: Midgard
 
 * English: David Revoy
