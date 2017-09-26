@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E15P08.svg">
@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.6956522"
-     inkscape:cx="1090.6312"
-     inkscape:cy="68.135997"
+     inkscape:cx="913.09996"
+     inkscape:cy="528.13598"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep15_translation\pt\..\gfx_Pepper-and-Carrot_by-David-Revoy_E15P08.png"
+       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep15_translation\pt\../gfx_Pepper-and-Carrot_by-David-Revoy_E15P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E15P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -74,28 +74,26 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.54500002;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.54500002;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="2040.9243"
        y="2519.9944"
        id="text4213"
-       sodipodi:linespacing="125%"
        transform="matrix(0.75304346,0,-0.11971288,1.3279446,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4215"
          x="2040.9243"
          y="2519.9944"
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- FIM -</tspan></text>
+         style="font-size:63.55184174px;line-height:1.25;fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- FIM -</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.581;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.581;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1239.4775"
        y="3392.3091"
-       id="text4246-42"
-       sodipodi:linespacing="125%"><tspan
+       id="text4246-42"><tspan
          sodipodi:role="line"
-         style="font-size:36.73472214px;fill:#ffffff"
+         style="font-size:36.73472214px;line-height:1.25;fill:#ffffff"
          x="1239.4775"
          y="3392.3091"
-         id="tspan4252-9">03/2016 - Arte e roteiro : David Revoy     Tradução : Alexandre Esteves Almeida</tspan></text>
+         id="tspan4252-9">03/2016 - Arte e roteiro: David Revoy     Tradução: Alexandre E. Almeida</tspan></text>
   </g>
 </svg>
